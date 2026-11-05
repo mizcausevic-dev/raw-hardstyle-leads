@@ -15,7 +15,7 @@ This is a bounded symbolic-composition release, not a sample pack, recording, or
 | rh03 Hard Edge | D# pack-local pitch collection | 32 bars · 150 BPM · 4/4 |
 | rh04 Return Signal | A# pack-local pitch collection | 32 bars · 150 BPM · 4/4 |
 
-The release contains 28 MIDI files: six Format 0 role exports and one Format 1 combined arrangement per study. It also contains canonical event CSVs, structural/harmonic/drum-map records, patch recipes, checksums, an original SVG cover, a simple-synthesis preview, draft editorial copy and one ZIP.
+The release contains 28 study MIDI files: six Format 0 role exports and one Format 1 combined arrangement per study. It also contains canonical event CSVs, structural/harmonic/drum-map records, patch recipes, checksums, an original SVG cover, a simple-synthesis preview, draft editorial copy and one ZIP.
 
 ## Start here
 
