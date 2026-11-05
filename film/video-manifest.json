@@ -1,0 +1,26 @@
+{
+  "title": "Raw Hardstyle Leads",
+  "study": "rh01",
+  "bpm": 150,
+  "source_audio": "preview/raw-hardstyle-leads-simple-synth-preview.mp3",
+  "source_audio_sha256": "a70432960294a473091fe6de60ce4b0aeff2ee8cd60d26161518a7e859e2b8e0",
+  "source_midi": "midi/rh01-black-monolith/rh01-black-monolith-combined.mid",
+  "source_midi_sha256": "d5bc7a2b51830df5ccd4d1f24571ea4082ff81b5de3bb90e9533dd7ec4b5fc25",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "5f4cd3c6084db2dd52fa3476f5dca38d564e779d059de4ebe6e1b67ea9a4304d",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "f9037dbacad31e324ef151dda441412021d707692081d53e3752761b24e2ad56",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "799a4b935737069f739f04b0e504cc5d50800cab6ed9f2a40c7c8176679583ee",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

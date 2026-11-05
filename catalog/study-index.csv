@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+rh01,Black Monolith,pack-local equal-tempered pitch collection,A,150,4/4,480,32,61440,midi/rh01-black-monolith/rh01-black-monolith-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+rh02,Cinder Run,pack-local equal-tempered pitch collection,C,150,4/4,480,32,61440,midi/rh02-cinder-run/rh02-cinder-run-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+rh03,Hard Edge,pack-local equal-tempered pitch collection,D#,150,4/4,480,32,61440,midi/rh03-hard-edge/rh03-hard-edge-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+rh04,Return Signal,pack-local equal-tempered pitch collection,A#,150,4/4,480,32,61440,midi/rh04-return-signal/rh04-return-signal-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
