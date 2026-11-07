@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/raw-hardstyle-leads-midi.zip",
-      "bytes": 31549,
-      "sha256": "9396dbfae2676c7805a04efdd37ee4c63cc7c2b97ed28d55b67aff33ab2c24a9"
+      "bytes": 33772,
+      "sha256": "a4ddd9f6a5a316f9ef4b82ce9fab59d29b45b3e801b8a0d43ffbe28349a3e318"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9510,
-      "sha256": "d6cc6a57dbdc8ca4cbf7c536033ab2d51dd85c499f55b9814bc8f82ce72295a3"
+      "bytes": 9700,
+      "sha256": "3f49d4fdc3460cf92efb4788f047f79665ff78c374728f599d66698f0ba8abf2"
     },
     {
       "path": "midi/rh01-black-monolith/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "fd24613ac2f701b0f32c7ec77b7418a4d1d60613d66e5de7fd6b958aa96ff9ad"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1136,
       "sha256": "5633ee405655f824d6779a102859b0805a314996c967fa5cebcf2c27463a1b3d"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3886,
-      "sha256": "dae4ee1b583eddeccb8cd91de3832345c4dc92ec502a2fe8b92b92ffeb2a08c0"
+      "bytes": 4001,
+      "sha256": "495dd4963f6c3013305a9149dac555ea3f7a18b24e64fd7aa11cd36d5cd7508b"
     },
     {
       "path": "social/instagram/caption.txt",
